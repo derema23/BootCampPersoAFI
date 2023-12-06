@@ -169,3 +169,76 @@ p::selection{
 p::after{
     content: '....';
 }
+
+/* Responsives styles */
+
+@media screen and (max-width:1400px){
+
+    .banner .welcome h2{
+        font-size:40px;
+    } 
+
+    nav li{
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width:960px){
+
+    .banner .welcome h2{
+        font-size:30px;
+    } 
+
+}
+
+@media screen and (max-width:700px){
+
+    .banner .welcome {
+        position: relative;
+        text-align: center;
+    } 
+
+    .banner .welcome br{
+        display: none;
+    }
+
+    .banner .welcome h2{
+        font-size: 25px;
+    }
+
+    .banner .welcome span{
+        font-size: 1em;
+    }
+
+    .images li{
+        width: 100%;
+        margin: 20% auto;
+        display: block;
+    }
+
+}
+
+@media screen and (max-width:560px){
+
+    nav li {
+        width: 100%;
+        font-size: 20px;
+        display: block;
+        margin:12px 0;
+    } 
+
+    header{
+        position: relative;
+    }
+
+    nav {
+        top:0;
+    }
+
+    .images li{
+        width: 100%;
+        margin: 20% auto;
+        display: block;
+    }
+
+}
