@@ -15,6 +15,9 @@ body{
     'header header header'
     'nav main Sidebar'
     'nav footer footer';
+
+    grid-template-columns: 1fr 4fr 1fr;
+    grid-template-rows: 80px 1fr 70px;
 }
 
 header,
@@ -25,7 +28,7 @@ footer{
     background-color: red;
     color: white;
     padding: 20px;
-    border: white 4px solid;
+    border: white 2px solid;
 }
 
 header{
