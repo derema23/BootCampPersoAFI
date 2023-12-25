@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: hsl(0, 0%, 5%);
-    color: yellowgreen;
+    background-color: var(--background-color);
+    color: var(--text-color);
     font-family: Arial, Helvetica, sans-serif;    
 }
