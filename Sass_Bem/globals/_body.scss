@@ -3,12 +3,13 @@
 *{
     padding: 0;
     margin: 0;
-    box-sizing: border-box;;
+    box-sizing: border-box;
 
 }
 
 body{
     background-color: var(--background-color);
-    color: var(--text-color);
+    // color: var(--text-color);
+    color: u.$red;
     font-family: u.$font; 
 }
