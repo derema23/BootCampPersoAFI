@@ -5,6 +5,12 @@ h1, h2, h3{
     margin-top: 0;
 }
 
+h1{
+   // font-size: 7.5vw;
+   // font-size: calc(16px + 2vw);
+    font-size: clamp(28px, 16px + 2vw, 40px);
+}
+
 p{
     margin-top: 0;
 }
