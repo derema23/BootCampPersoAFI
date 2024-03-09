@@ -1,10 +1,16 @@
 // FOR MEDIA QUERIES --- 700px , 900px, 1440px
 
 //$breakpoint is a sass map
+// $breakpoints-up: (
+//     'medium' : 43.75em,
+//     'large' : 56.25em,
+//     'x-large' : 90em,
+// );
+
 $breakpoints-up: (
-    'medium' : 43.75em,
-    'large' : 56.25em,
-    'x-large' : 90em,
+    'medium' : 700px,
+    'large' : 900px,
+    'x-large' : 1440px,
 );
 
 //Declaration of the mixin
