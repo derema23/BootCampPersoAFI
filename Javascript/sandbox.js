@@ -1,19 +1,21 @@
-// let age = 25;
-// let year = 2019;
+/* let age = 25;
 
-// console.log(age, year);
 
-// age = 30;
-// console.log(age);
+let year = 2019;
 
-// const points = 100;
-// console.log(points);
+console.log(age, year);
 
-// var score = 15;
-// console.log(score); 
-//alert('Le score de cette partie est ' + score);
+age = 30;
+console.log(age);
 
-// Strings
+const points = 100;
+console.log(points);
+
+var score = 15;
+console.log(score); 
+alert('Le score de cette partie est ' + score);
+
+//Strings
 console.log('Hello, World');
  let email = 'example@email.com';
 console.log(email);
@@ -36,3 +38,14 @@ console.log(Lower);
 
 let index = email.indexOf('@');
 console.log(index);
+*/
+
+// String Common methods
+
+let email = 'winnerderema@gmail.com';
+// let result = email.lastIndexOf('m');
+//let result = email.slice(0,6);
+// let result = email.substring(0,6);
+// let result = email.replace('m','H');
+
+//console.log(result);
