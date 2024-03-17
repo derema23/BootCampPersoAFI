@@ -42,7 +42,7 @@ console.log(index);
 
 // String Common methods
 
-let email = 'winnerderema@gmail.com';
+//let email = 'winnerderema@gmail.com';
 // let result = email.lastIndexOf('m');
 //let result = email.slice(0,6);
 // let result = email.substring(0,6);
