@@ -49,3 +49,8 @@ let email = 'winnerderema@gmail.com';
 // let result = email.replace('m','H');
 
 //console.log(result);
+
+
+// ARRAYS & methods
+
+let random = ['janvier','février',40,20];
