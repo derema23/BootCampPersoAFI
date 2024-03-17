@@ -53,4 +53,6 @@ let email = 'winnerderema@gmail.com';
 
 // ARRAYS & methods
 
-let random = ['janvier','février',40,20];
+let random = ['janvier','février',40,20]; 
+// methods : join(), indexOf(), concat(['mars','Mai']), push(), pop()
+console.log(random);
