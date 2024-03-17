@@ -55,4 +55,4 @@ let email = 'winnerderema@gmail.com';
 
 let random = ['janvier','février',40,20]; 
 // methods : join(), indexOf(), concat(['mars','Mai']), push(), pop()
-console.log(random);
+//console.log(random);
