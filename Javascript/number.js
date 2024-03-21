@@ -34,4 +34,37 @@ console.log(num === '54');
 
 let score = '100';
 //score = Number(score);
-console.log(score + 10)
+console.log(score + 10);
+
+// For Loops
+let names = ["Josh","Karim","Clément"]
+
+// for(let i=0; i<6; i++){
+
+//     console.log(i);
+// }
+
+for(let i=0; i< names.length; i++){
+
+    console.log(names[i]);
+}
+
+// while Loops
+
+let a =0;
+while(a < 4){
+    console.log("In loop : " , a);
+    a++;
+}
+
+// Do while 
+// If & Else If statements
+// Logical operators : OR ||  AND &&
+
+// Logical NOT (!)
+
+// Break and Continue
+
+// Switch statements
+
+// Variables & Block scope
